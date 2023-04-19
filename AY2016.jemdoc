@@ -1,5 +1,6 @@
 # jemdoc: menu{MENU}{tables.html}, showsource, addcss{table}
-= jemdoc -- tables
+# countries tr.r1 { font-weight: bold; }
+= Academic Year 2016
 
 jemdoc includes preliminary support for tables.
 
@@ -9,5 +10,5 @@ jemdoc includes preliminary support for tables.
 {}{table}{countries}
 Date/time | Topic | Presenter | Slide | Note ||
 Thursday | Multipath TCP in Evolving Mobile Wireless Networks | Dr. Kien Nguyen | slide |  ||
-Nov. 22 (Wed) 9:30-10:40 | CNC06 mini project 2 report | Duc Mai | Slide | Note ||	 
+Nov. 22 (Wed) 9:30-10:40 | CNC06 mini project 2 report | Duc Mai | Slide | Note ||	
 ~~~
