@@ -1,5 +1,4 @@
 # jemdoc: menu{MENU}{tables.html}, showsource, addcss{table}
-# countries tr.r1 { font-weight: bold; }
 = Academic Year 2016
 
 jemdoc includes preliminary support for tables.
