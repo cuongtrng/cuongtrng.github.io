@@ -1,9 +1,12 @@
 #! /bin/bash
 
-./jemdoc index.jemdoc
-./jemdoc AY2016.jemdoc
+dir=$(pwd)
 
-now=$(date) 
-git add -A
-git commit -m "change on $(now) "
-git push
+cd main
+../jemdoc -c mysite.conf -o ../ index.jemdoc
+cd $dir
+
+# now=$(date) 
+# git add -A
+# git commit -m "change on $(now) "
+# git push

@@ -1,0 +1,12 @@
+# jemdoc: menu{MENU}{index.html}
+== Nguyen Trong Cuong
+
+~~~
+{}{img_left}{images/3x4.jpg}{alt text}{197px}{262px}
+Ordinary jemdoc markup goes here.
+~~~
+
+= About me
+~~~
+This is the seminar site
+~~~
