@@ -1,11 +1,12 @@
 # jemdoc: menu{MENU}{useful_links.html}
 == Useful Links
 
-/Free knowledge accross the Internet!/
+/Knowledge accross the Internet!/
 
-\n
-
+= Courses
 - [https://online.stat.psu.edu/stat414/ Introduction to Probability Theory]
 #- [http://pfister.ee.duke.edu/courses/ecen604/ Channel Coding for Communications by Professor Henry D. Pfister, Duke University]
+
+= Books
 #- [https://web.stanford.edu/~dntse/wireless_book.html Fundamentals of Wireless Communication]
-- [https://d1.amobbs.com/bbs_upload782111/files_35/ourdev_604508GHLFR2.pdf Channel Codes: Classical and Modern]
+- [https://d1.amobbs.com/bbs_upload782111/files_35/ourdev_604508GHLFR2.pdf Channel Codes: Classical and Modern] (LDPC mostly)
