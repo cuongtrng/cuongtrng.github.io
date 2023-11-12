@@ -1,2 +1,16 @@
 # jemdoc: menu{MENU}{publications.html}
 == Publications
+
+*IEEE Copyright Notice*: \C 2007-2013 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
+
+= Journals
+. *Cuong T. Nguyen*, Hoang D. Le, Chuyen T. Nguyen, and Anh T. Pham, "Toward Practical HARQ-Based RC-LDPC Design for Optical Satellite-Assisted Vehicular Networks," /IEEE Transactions on Intelligent Vehicles/, Sept. 2023 (*In Revision*) 
+. *Cuong T. Nguyen*, Chuyen T. Nguyen, and Anh T. Pham, “[https://www.jstage.jst.go.jp/article/comex/12/4/12_2022XBL0188/_article/-char/ja/ On the HARQ Performance in Underwater Optical Wireless Communication Systems with the Presence of Air Bubbles],” /IEICE Communications Express/, vol. 12, no. 4, pp. 151–156, 2023.
+. *Cuong T. Nguyen*, Vuong V. Mai, and Chuyen T. Nguyen, “[https://ieeexplore.ieee.org/document/9361664 Probing Packet Retransmission Scheme in Underwater Optical Wireless Communication with Energy Harvesting],” /IEEE Access/, vol. 9, pp. 34287-34297, 2021.
+
+
+= Conference papers
+
+. *Cuong T. Nguyen*, Hoang D. Le, and Anh T. Pham, "Goodput Performance of LDPC-based HARQ Protocol in FSO-based Vertical Systems," /IEICE International Conference on Emerging Technologies for Communications (ICETC)/, Sapporo, Japan, Nov. 2023
+. *Cuong T. Nguyen*, Hoang D. Le, and Anh T. Pham, "[https://ieeexplore.ieee.org/abstract/document/10234057 Performance of IR-HARQ-based RC-LDPC Code Extension in Optical Satellite Systems]," in /Proc. VTS Asia-Pacific Wireless Communications Symposium (APWCS)/, Tainan, Taiwan, Aug. 2023.
+. *Cuong T. Nguyen*, Mat T. Nguyen, Vuong V. Mai, and Chuyen T. Nguyen, "[https://ieeexplore.ieee.org/abstract/document/9352094 Reliable Transmission for Underwater Optical Wireless Communication Networks with Energy Harvesting]," /IEEE Eighth International Conference on Communications and Electronics (ICCE)/, Phu Quoc, Viet Nam, 13-15 January 2021, pp. 39-44.
