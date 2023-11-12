@@ -3,31 +3,31 @@
 table#tlayout {
 	border: none;
 	border-collapse: separate;
-	background: white;
+	background: #f6eee3;
 }
 
 body {
-	background: white;
+	background: #f6eee3;
 	font-family: Georgia, serif;
 	padding-bottom: 8px;
 	margin: 0;
 }
 
 #layout-menu {
-	background: #f6f6f6;
-	border: 1px solid #dddddd;
+	background: #e5decf;
+	border: 1px solid #f6eee3;
 	padding-top: 0.5em;
 	padding-left: 8px;
 	padding-right: 8px;
 	font-size: 1.0em;
-	width: auto;
+	width: 200px;
 	white-space: nowrap;
 	text-align: left;
 	vertical-align: top;
 }
 
 #layout-menu td {
-	background: #f4f4f4;
+	background: #f6eee3;
 	vertical-align: top;
 }
 
@@ -36,7 +36,7 @@ body {
 	padding-left: 1.0em;
 	padding-right: 1.0em;
 	border: none;
-	background: white;
+	background: #f6eee3;
 	text-align: left;
 	vertical-align: top;
 	min-width: 800px;
