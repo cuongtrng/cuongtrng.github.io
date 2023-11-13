@@ -4,9 +4,29 @@
 /Knowledge accross the Internet!/
 
 = Courses
-- [https://online.stat.psu.edu/stat414/ Introduction to Probability Theory]
+- [https://gaia.cs.umass.edu/kurose_ross/index.php Computer Networking: a Top Down Approach]
+#- [https://online.stat.psu.edu/stat414/ Introduction to Probability Theory]
 #- [http://pfister.ee.duke.edu/courses/ecen604/ Channel Coding for Communications by Professor Henry D. Pfister, Duke University]
 
 = Books
-#- [https://web.stanford.edu/~dntse/wireless_book.html Fundamentals of Wireless Communication]
+- [https://web.mit.edu/dimitrib/www/datanets.html Data Networks by Dimitri P. Bertsekas and Robert G. Gallager]
+- [https://www.amazon.co.jp/-/en/Bernard-Sklar/dp/0130847887 Digital Communications: Fundamentals and Applications]
+- [https://web.stanford.edu/~dntse/wireless_book.html Fundamentals of Wireless Communication]
 - [https://d1.amobbs.com/bbs_upload782111/files_35/ourdev_604508GHLFR2.pdf Channel Codes: Classical and Modern] (LDPC mostly)
+
+= Topics on Wikipedia
+- [https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus Calculus]
+- [https://en.wikipedia.org/wiki/Probability_theory Probability Theory]
+- [https://en.wikipedia.org/wiki/Information_theory Information Theory]
+- [https://en.wikipedia.org/wiki/Coding_theory Coding Theory]: 
+[https://en.wikipedia.org/wiki/Hamming_distance Hamming Distance], 
+[https://en.wikipedia.org/wiki/Singleton_bound Singleton Bound], 
+[https://en.wikipedia.org/wiki/Hamming_bound Hamming Bound], 
+[https://en.wikipedia.org/wiki/Linear_code Linear Code], [https://en.wikipedia.org/wiki/Reed-Solomon_error_correction Reed-Solomon code] ([https://en.wikiversity.org/wiki/Reed%E2%80%93Solomon_codes_for_coders Implementation])
+- Algebra: [https://en.wikipedia.org/wiki/Group_%28mathematics%29 Group], 
+[https://en.wikipedia.org/wiki/Field_%28mathematics%29 Field], 
+[https://en.wikipedia.org/wiki/Finite_field Finite Field], 
+[https://en.wikipedia.org/wiki/Vector_space Vector Space], 
+[https://en.wikipedia.org/wiki/Basis_%28linear_algebra%29 Basis], 
+[https://en.wikipedia.org/wiki/Rank_(linear_algebra) Rank of a Matrix], 
+[https://en.wikipedia.org/wiki/Determinant Determinant]
