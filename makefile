@@ -1,7 +1,5 @@
 build:
-	cd jemdoc_files
-	./jemdoc -o ../ *.jemdoc
-	cd ..
+	bash build.sh
 
 run:
 	php -S localhost:8000
