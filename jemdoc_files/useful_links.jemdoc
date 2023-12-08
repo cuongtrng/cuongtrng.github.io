@@ -8,11 +8,11 @@
 #- [https://online.stat.psu.edu/stat414/ Introduction to Probability Theory]
 #- [http://pfister.ee.duke.edu/courses/ecen604/ Channel Coding for Communications by Professor Henry D. Pfister, Duke University]
 
-= Books
+# = Books
 #- [https://web.mit.edu/dimitrib/www/datanets.html Data Networks by Dimitri P. Bertsekas and Robert G. Gallager]
 #- [https://www.amazon.co.jp/-/en/Bernard-Sklar/dp/0130847887 Digital Communications: Fundamentals and Applications]
 #- [https://web.stanford.edu/~dntse/wireless_book.html Fundamentals of Wireless Communication]
-- [https://d1.amobbs.com/bbs_upload782111/files_35/ourdev_604508GHLFR2.pdf Channel Codes: Classical and Modern] (LDPC mostly)
+# - [https://d1.amobbs.com/bbs_upload782111/files_35/ourdev_604508GHLFR2.pdf Channel Codes: Classical and Modern] (LDPC mostly)
 
 #= Topics on Wikipedia
 #- [https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus Calculus]
