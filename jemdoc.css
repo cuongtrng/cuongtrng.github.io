@@ -25,6 +25,9 @@ body {
 	white-space: nowrap;
 	text-align: left;
 	vertical-align: top;
+	width: 200px;
+	padding: 20px;
+	overflow-y: auto;
 }
 
 #layout-menu td {
