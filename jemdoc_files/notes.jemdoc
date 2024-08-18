@@ -4,26 +4,28 @@
 /Knowledge accross the Internet!/
 
 == Useful Links
-- [https://en.wikibooks.org/wiki/LaTeX/Mathematics LaTeX/Mathematics]
 - [https://www3.ntu.edu.sg/home/ehchua/programming/\#Cpp C\+\+ Notes]
+- [https://en.wikibooks.org/wiki/LaTeX/Mathematics LaTeX/Mathematics]
+- [https://template-selector.ieee.org/secure/templateSelector/publicationType IEEE Latex Template]
 
-#= Courses
+#== Courses
 #- [https://gaia.cs.umass.edu/kurose_ross/index.php Computer Networking: a Top Down Approach]
 #- [https://online.stat.psu.edu/stat414/ Introduction to Probability Theory]
 #- [http://pfister.ee.duke.edu/courses/ecen604/ Channel Coding for Communications by Professor Henry D. Pfister, Duke University]
 
 == Books
-- [https://web.mit.edu/dimitrib/www/datanets.html Data Networks by Dimitri P. Bertsekas and Robert G. Gallager]
+- [https://web.mit.edu/dimitrib/www/datanets.html Data Networks]
 # - [https://www.amazon.co.jp/-/en/Bernard-Sklar/dp/0130847887 Digital Communications: Fundamentals and Applications]
 # - [https://web.stanford.edu/~dntse/wireless_book.html Fundamentals of Wireless Communication]
-- [https://d1.amobbs.com/bbs_upload782111/files_35/ourdev_604508GHLFR2.pdf Channel Codes: Classical and Modern] (LDPC mostly)
+- [https://d1.amobbs.com/bbs_upload782111/files_35/ourdev_604508GHLFR2.pdf Channel Codes: Classical and Modern]
+# (LDPC mostly)
 
 == Mathematics Cheat Sheet
-- [https://en.wikipedia.org/wiki/Gaussian_quadrature Gaussian Quadrature] || [https://pomax.github.io/bezierinfo/legendre-gauss.html Gaussian Quadrature Weights and Abscissae]
-- [https://functions.wolfram.com Wolfram Functions]
 - [https://tutorial.math.lamar.edu/Extras/CheatSheets_Tables.aspx Calculus]
 - [https://linear.axler.net/LinearAbridged.html Linear Algebra]
 - [/papers/probability_cheatsheet.pdf Probability Theory]
+- [https://functions.wolfram.com Wolfram Functions]
+- [https://en.wikipedia.org/wiki/Gaussian_quadrature Gaussian Quadrature] || [https://pomax.github.io/bezierinfo/legendre-gauss.html Gaussian Quadrature Weights and Abscissae]
 
 == Personal Notes
 
