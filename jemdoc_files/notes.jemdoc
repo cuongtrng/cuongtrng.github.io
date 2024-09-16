@@ -1,14 +1,15 @@
 # jemdoc: menu{MENU}{notes.html}
-= Notes
+= Bookmark
 
 /Knowledge accross the Internet!/
 
-== Useful Links
-- [https://www3.ntu.edu.sg/home/ehchua/programming/\#Cpp C\+\+ Notes]
+== Writing/Coding Conventions
 - [https://en.wikibooks.org/wiki/LaTeX/Mathematics LaTeX/Mathematics]
+- [https://peps.python.org/pep-0008 PEP 8 – Style Guide for Python Code]
+- [https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/create-the-text-of-your-article/ieee-editorial-style-manual/ IEEE Editorial Style Manual]
 - [https://template-selector.ieee.org/secure/templateSelector/publicationType IEEE Latex Template]
 
-#== Courses
+
 #- [https://gaia.cs.umass.edu/kurose_ross/index.php Computer Networking: a Top Down Approach]
 #- [https://online.stat.psu.edu/stat414/ Introduction to Probability Theory]
 #- [http://pfister.ee.duke.edu/courses/ecen604/ Channel Coding for Communications by Professor Henry D. Pfister, Duke University]
@@ -20,12 +21,14 @@
 # - [https://d1.amobbs.com/bbs_upload782111/files_35/ourdev_604508GHLFR2.pdf Channel Codes: Classical and Modern]
 # (LDPC mostly)
 
-== Mathematics Cheat Sheet
+== Courses/Mathematics Cheat Sheet
+- [https://web.mit.edu/6.02/www/s2012/handouts.shtml Digital Communication Systems]
 - [https://tutorial.math.lamar.edu/Extras/CheatSheets_Tables.aspx Calculus]
 - [https://linear.axler.net/LinearAbridged.html Linear Algebra]
 - [/papers/probability_cheatsheet.pdf Probability Theory]
 - [https://functions.wolfram.com Wolfram Functions]
 - [https://en.wikipedia.org/wiki/Gaussian_quadrature Gaussian Quadrature] || [https://pomax.github.io/bezierinfo/legendre-gauss.html Gaussian Quadrature Weights and Abscissae]
+- [https://www3.ntu.edu.sg/home/ehchua/programming/\#Cpp C\+\+ Notes]
 
 == Personal Notes
 
