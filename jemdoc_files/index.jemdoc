@@ -2,7 +2,7 @@
 == Nguyen Trong Cuong
 
 ~~~
-{}{img_left}{images/3x4.jpg}{alt text}{197px}{262px}
+{}{img_left}{images/3x4.jpg}{avatar}{197px}{262px}
 
 *Cuong Trong Nguyen*
 
@@ -26,8 +26,7 @@ The University of Aizu, Japan
 
 = Areas of Interest
 
-- Optical Wireless Systems
-- Satellite Communications
+- Optcal Satellite Systems
 - Low-Density Parity Check (LDPC) Codes
 - Quantum Key Distribution
 
