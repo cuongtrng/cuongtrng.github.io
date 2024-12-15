@@ -1,7 +1,11 @@
 # jemdoc: menu{MENU}{publications.html}
 = Publications
 
-*IEEE Copyright Notice*: \C 2007-2013 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
+*IEEE Copyright Notice*: \C 20XX IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
+
+For more details: [https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/post-publication-policies/ IEEE Post-Publication Policies],
+[https://academia.stackexchange.com/questions/47841/conditions-for-uploading-ieee-publications-to-arxiv How to add a copyright notice]
+
 
 == Journals
 . *Cuong T. Nguyen*, Hoang D. Le, Chuyen T. Nguyen, and Anh T. Pham, "[https://ieeexplore.ieee.org/document/10613470 Toward Practical HARQ-Based RC-LDPC Design for Optical Satellite-Assisted Vehicular Networks]," /IEEE Transactions on Aerospace and Electronic Systems/, Jul. 2024. DOI: 10.1109/TAES.2024.3434768 \[[papers/2024.TAES.pdf PDF]\]
@@ -14,4 +18,4 @@
 . *Cuong T. Nguyen*, Hoang D. Le, Vuong V. Mai, Phuc V. Trinh, and Anh T. Pham, “[https://ieeexplore.ieee.org/document/10636513 Blind Reconciliation with Protograph LDPC Code Extension for FSO-based Satellite QKD Systems],” /IEEE\/IET International Symposium on Communication Systems, Networks and Digital Signal Processing (CSNDSP)/, Rome, Italy, July 2024. \[[papers/2024.CSNDSP.pdf PDF]\] ({{<b style="color:red">Best Paper Award</b>}})
 . *Cuong T. Nguyen*, Hoang D. Le, and Anh T. Pham, "[https://www.ieice.org/publications/proceedings/summary.php?expandable=8&iconf=ICETC&session_num=P1&number=P1-9&year=2023 Goodput Performance of LDPC-based HARQ Protocol in FSO-based Vertical Systems]," /IEICE International Conference on Emerging Technologies for Communications (ICETC)/, Sapporo, Japan, Nov. 2023.
 . *Cuong T. Nguyen*, Hoang D. Le, and Anh T. Pham, "[https://ieeexplore.ieee.org/abstract/document/10234057 Performance of IR-HARQ-based RC-LDPC Code Extension in Optical Satellite Systems]," /IEEE VTS Asia-Pacific Wireless Communications Symposium (APWCS)/, Tainan, Taiwan, Aug. 2023. \[[papers/2023.APWCS.pdf PDF]\]
-. *Cuong T. Nguyen*, Mat T. Nguyen, Vuong V. Mai, and Chuyen T. Nguyen, "[https://ieeexplore.ieee.org/abstract/document/9352094 Reliable Transmission for Underwater Optical Wireless Communication Networks with Energy Harvesting]," /IEEE International Conference on Communications and Electronics (ICCE)/, Phu Quoc, Viet Nam, Jan. 2021. \[[papers/2021.UWOC-with-Energy-Harvesting.pdf PDF]\]
+. *Cuong T. Nguyen*, Mat T. Nguyen, Vuong V. Mai, and Chuyen T. Nguyen, "[https://ieeexplore.ieee.org/abstract/document/9352094 Reliable Transmission for Underwater Optical Wireless Communication Networks with Energy Harvesting]," /IEEE International Conference on Communications and Electronics (ICCE)/, Phu Quoc, Viet Nam, Jan. 2021. \[[papers/2021.ICCE.pdf PDF]\]
