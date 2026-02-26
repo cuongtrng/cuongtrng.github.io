@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{notes.html}
-= Bookmark
+= The Secret Chambers
 
 /Knowledge accross the Internet!/
 
@@ -10,18 +10,15 @@
 - [https://peps.python.org/pep-0008 PEP 8 – Style Guide for Python Code]
 - [https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/create-the-text-of-your-article/ieee-editorial-style-manual/ IEEE Editorial Style Manual]
 - [https://template-selector.ieee.org/secure/templateSelector/publicationType IEEE Latex Template]
+- [https://gaia.cs.umass.edu/kurose_ross/index.php Computer Networking: a Top Down Approach]
+- [https://online.stat.psu.edu/stat414/ Introduction to Probability Theory]
+- [http://pfister.ee.duke.edu/courses/ecen604/ Channel Coding for Communications by Professor Henry D. Pfister, Duke University]
 
-
-#- [https://gaia.cs.umass.edu/kurose_ross/index.php Computer Networking: a Top Down Approach]
-#- [https://online.stat.psu.edu/stat414/ Introduction to Probability Theory]
-#- [http://pfister.ee.duke.edu/courses/ecen604/ Channel Coding for Communications by Professor Henry D. Pfister, Duke University]
-
-# == Books
-# - [https://web.mit.edu/dimitrib/www/datanets.html Data Networks]
-# - [https://www.amazon.co.jp/-/en/Bernard-Sklar/dp/0130847887 Digital Communications: Fundamentals and Applications]
-# - [https://web.stanford.edu/~dntse/wireless_book.html Fundamentals of Wireless Communication]
-# - [https://d1.amobbs.com/bbs_upload782111/files_35/ourdev_604508GHLFR2.pdf Channel Codes: Classical and Modern]
-# (LDPC mostly)
+== Books
+- [https://web.mit.edu/dimitrib/www/datanets.html Data Networks]
+- [https://www.amazon.co.jp/-/en/Bernard-Sklar/dp/0130847887 Digital Communications: Fundamentals and Applications]
+- [https://web.stanford.edu/~dntse/wireless_book.html Fundamentals of Wireless Communication]
+- [https://d1.amobbs.com/bbs_upload782111/files_35/ourdev_604508GHLFR2.pdf Channel Codes: Classical and Modern] (LDPC mostly)
 
 == Courses/Mathematics Cheat Sheet
 - [https://web.mit.edu/6.02/www/s2012/handouts.shtml Digital Communication Systems]
@@ -35,19 +32,21 @@
 == Personal Notes
 
 - [https://www.overleaf.com/read/gzzthvksrvzy\#848d63 Rate-Compatible Structured LDPC Codes report]
+- [https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus Calculus]
+- [https://en.wikipedia.org/wiki/Probability_theory Probability Theory]
+- [https://en.wikipedia.org/wiki/Information_theory Information Theory]
+- [https://en.wikipedia.org/wiki/Coding_theory Coding Theory]: 
+- [https://en.wikipedia.org/wiki/Hamming_distance Hamming Distance], 
+- [https://en.wikipedia.org/wiki/Singleton_bound Singleton Bound], 
+- [https://en.wikipedia.org/wiki/Hamming_bound Hamming Bound], 
+- [https://en.wikipedia.org/wiki/Linear_code Linear Code], [https://en.wikipedia.org/wiki/Reed-Solomon_error_correction Reed-Solomon code] ([https://en.wikiversity.org/wiki/Reed%E2%80%93Solomon_codes_for_coders Implementation])
+- Algebra: [https://en.wikipedia.org/wiki/Group_%28mathematics%29 Group], 
+[https://en.wikipedia.org/wiki/Field_%28mathematics%29 Field], 
+[https://en.wikipedia.org/wiki/Finite_field Finite Field], 
+[https://en.wikipedia.org/wiki/Vector_space Vector Space], 
+[https://en.wikipedia.org/wiki/Basis_%28linear_algebra%29 Basis], 
+[https://en.wikipedia.org/wiki/Rank_(linear_algebra) Rank of a Matrix], 
+[https://en.wikipedia.org/wiki/Determinant Determinant]
 
-# [https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus Calculus]
-# [https://en.wikipedia.org/wiki/Probability_theory Probability Theory]
-# [https://en.wikipedia.org/wiki/Information_theory Information Theory]
-# [https://en.wikipedia.org/wiki/Coding_theory Coding Theory]: 
-#[https://en.wikipedia.org/wiki/Hamming_distance Hamming Distance], 
-#[https://en.wikipedia.org/wiki/Singleton_bound Singleton Bound], 
-#[https://en.wikipedia.org/wiki/Hamming_bound Hamming Bound], 
-#[https://en.wikipedia.org/wiki/Linear_code Linear Code], [https://en.wikipedia.org/wiki/Reed-Solomon_error_correction Reed-Solomon code] ([https://en.wikiversity.org/wiki/Reed%E2%80%93Solomon_codes_for_coders Implementation])
-#- Algebra: [https://en.wikipedia.org/wiki/Group_%28mathematics%29 Group], 
-#[https://en.wikipedia.org/wiki/Field_%28mathematics%29 Field], 
-#[https://en.wikipedia.org/wiki/Finite_field Finite Field], 
-#[https://en.wikipedia.org/wiki/Vector_space Vector Space], 
-#[https://en.wikipedia.org/wiki/Basis_%28linear_algebra%29 Basis], 
-#[https://en.wikipedia.org/wiki/Rank_(linear_algebra) Rank of a Matrix], 
-#[https://en.wikipedia.org/wiki/Determinant Determinant]
+== Others
+- /Aug. 2022/: *[certificates/2022.VSSS-Hack-o-thon.pdf Third Prize]* in the Science-A-Thon Challenge, [https://www.truonghekhoahoc.com/2022/ 9th Vietnam Summer School of Science]
