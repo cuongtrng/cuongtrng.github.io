@@ -1,5 +1,5 @@
-# jemdoc: menu{MENU}{publications.html}
-= Publications
+# jemdoc: menu{MENU_jp}{publications.html}
+= 発表論文
 
 # *IEEE Copyright Notice*: \C 20XX IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
 
@@ -9,13 +9,13 @@ Authors are permitted to upload the accepted versions of their IEEE papers on th
 # [https://academia.stackexchange.com/questions/47841/conditions-for-uploading-ieee-publications-to-arxiv How to add a copyright notice]
 
 
-== Journals
+== 学会論文誌
 . *Cuong T. Nguyen*, Hoang D. Le, Chuyen T. Nguyen, and Anh T. Pham, "[https://doi.org/10.1109/TAES.2024.3434768 Toward Practical HARQ-Based RC-LDPC Design for Optical Satellite-Assisted Vehicular Networks]," /IEEE Transactions on Aerospace and Electronic Systems/, vol. 60, no. 6, pp. 8619–8634, Dec. 2024. \[[papers/2024.TAES.pdf PDF]\]
 . *Cuong T. Nguyen*, Chuyen T. Nguyen, and Anh T. Pham, “[https://doi.org/10.1587/comex.2022XBL0188 On the HARQ Performance in Underwater Optical Wireless Communication Systems with the Presence of Air Bubbles],” /IEICE Communications Express/, vol. 12, no. 4, pp. 151–156, Jan. 2023.
 . *Cuong T. Nguyen*, Vuong V. Mai, and Chuyen T. Nguyen, “[https://doi.org/10.1109/ACCESS.2021.3061647 Probing Packet Retransmission Scheme in Underwater Optical Wireless Communication with Energy Harvesting],” /IEEE Access/, vol. 9, pp. 34287-34297, Feb. 2021.
 
 
-== Conference papers
+== 国際学会発表論文
 . Yuma Kaminaga, Hoang D. Le, *Cuong T. Nguyen*, and Anh T. Pham, “[https://ieeexplore.ieee.org/ Qiskit-Based Simulation of HAP-Enabled Multi-User Entanglement QKD over FSO Channels],” /International Conference on AI in Information and Communication (ICAIIC)/, Tokyo, Japan, Feb. 2026. \[[papers/2026.Yuma_ICAIIC.pdf PDF]\]
 . *Cuong T. Nguyen*, Hoang D. Le, Dimitar R. Kolev, Alberto Carrasco-Casado, Toshihiro Kubo-oka, Hiroyuki Tsuji, Morio Toyoshima, and Anh T. Pham, “[https://ieeexplore.ieee.org/ Investigation of Fade Mitigation Methods on Experimental FSO LEO-to-Ground Links],” /IEEE International Conference on Space Optical Systems and Applications Conference (ICSOS)/, Kyoto, Japan, Oct. 2025. \[[papers/2025.ICSOS.pdf PDF]\] ({{<b style="color:red">Student Paper Award</b>}})
 . Takihara Yudai, Hoang D. Le, *Cuong T. Nguyen*, and Anh T. Pham, "[https://doi.org/10.1109/ATC67618.2025.11268798 Qiskit-Enabled Simulation of Quantum Key Distribution over Starlink Satellite Networks]," /International Conference on Advanced Technologies for Communications (ATC)/, Hanoi, Vietnam, Oct. 2025. \[[papers/2025.Yudai_ATC.pdf PDF]\] ({{<b style="color:red">Best Paper Award</b>}})

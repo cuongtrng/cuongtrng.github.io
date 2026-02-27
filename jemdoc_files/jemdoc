@@ -379,27 +379,62 @@ def hb(f, tag, content1, content2=None):
     out(f, r)
 
 def pc(f, ditchcomments=True):
-  """Peeks at next character in the file."""
-  # Should only be used to look at the first character of a new line.
-  c = f.inf.read(1).decode(encoding='utf-8')
-  if c: # only undo forward movement if we're not at the end.
-    if ditchcomments and c == '#':
-      l = nl(f)
-      if doincludes(f, l):
-        return "#"
+    """Peeks at next character (including Kanji), then resets the pointer."""
 
-    if c in ' \t':
-      return pc(f)
+    # 1. Read one byte to check the UTF-8 header
+    pos = f.inf.tell()
+    first_byte = f.inf.read(1)
+    if not first_byte:
+        if f.otherfiles:
+            f.nextfile()
+            return pc(f, ditchcomments)
+        return ""
 
-    if c == '\\':
-      c += pc(f)
+    # 2. Determine how many more bytes to read based on UTF-8 encoding
+    # UTF-8 leading byte patterns: 
+    # 0xxxxxxx = 1 byte (ASCII)
+    # 110xxxxx = 2 bytes
+    # 1110xxxx = 3 bytes (Most Kanji)
+    # 11110xxx = 4 bytes
+    b = first_byte[0]
+    if b < 0x80:
+        length = 1
+    elif b < 0xE0:
+        length = 2
+    elif b < 0xF0:
+        length = 3
+    else:
+        length = 4
 
-    f.inf.seek(-1, 1)
-  elif f.otherfiles:
-    f.nextfile()
-    return pc(f, ditchcomments)
+    # 3. Read the full character
+    f.inf.seek(pos) # Go back to start of character
+    full_char_bytes = f.inf.read(length)
 
-  return c
+    try:
+        c = full_char_bytes.decode('utf-8')
+    except UnicodeDecodeError:
+        # Fallback: if decoding fails, treat as single byte or skip
+        c = first_byte.decode('utf-8', errors='ignore')
+        length = 1
+
+    # --- Your Original Logic Starts Here ---
+    if c:
+        if ditchcomments and c == '#':
+            l = nl(f)
+            if doincludes(f, l):
+                return "#"
+
+        if c in ' \t':
+            return pc(f, ditchcomments)
+
+        if c == '\\':
+            # Note: recursive peek for backslash escapes
+            c += pc(f, ditchcomments)
+
+        # 4. RESET: Seek back exactly the number of bytes we read
+        f.inf.seek(pos)
+
+    return c
 
 def doincludes(f, l):
   ir = 'includeraw{'
