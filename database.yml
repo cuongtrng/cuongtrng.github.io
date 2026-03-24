@@ -1,0 +1,70 @@
+conferences:
+  - name: Globecom 2026 (Workshop)
+    link: https://globecom2026.ieee-globecom.org/
+    deadline: Jul. 15
+    date: Dec. 7-13
+    location: Macau S.A.R., China
+    year: 2026
+
+  - name: Globecom 2027
+    link: https://globecom2026.ieee-globecom.org/
+    deadline: Apr. 1
+    date: Dec. 6-10
+    location: Abu Dhabi, UAE
+    year: 2027
+
+  - name: Globecom 2028
+    link: https://globecom2026.ieee-globecom.org/
+    deadline: Apr. 1
+    date: Dec. 6-10
+    location: Hawaii, USA
+    year: 2028
+
+  - name: Globecom 2029
+    link: https://globecom2026.ieee-globecom.org/
+    deadline: Apr. 1
+    date: Dec. 6-10
+    location: Hong Kong, China
+    year: 2029
+
+  - name: VTC-Fall 2026 (Workshop)
+    link: https://events.vtsociety.org/vtc2026-fall/
+    deadline: Apr. 25
+    date: Sep. 6-9
+    location: Boston, MA, USA
+    year: 2026
+
+  - name: VTC-Spring 2027
+    link: https://events.vtsociety.org/vtc2026-fall/
+    deadline: Sep. 1
+    date: Jun. 20-23
+    location: Hamburg, Germany
+    year: 2027
+
+  - name: ATC 2026
+    link: https://atc-conf.org/
+    deadline: May. 30
+    date: Oct. 15-17
+    location: Quy Nhon, Vietnam
+    year: 2026
+
+  - name: ICC 2027
+    link: https://icc2026.ieee-icc.org/
+    deadline: Nov. 10
+    date: May. 30
+    location: Washington, D.C., USA
+    year: 2027
+
+  - name: ICC 2028
+    link: https://icc2026.ieee-icc.org/
+    deadline: Nov. 10
+    date: May. 30
+    location: Chengdu, China
+    year: 2028
+  
+  - name: ICC 2029
+    link: https://icc2026.ieee-icc.org/
+    deadline: Nov. 10
+    date: May. 30
+    location: Paris, France
+    year: 2029

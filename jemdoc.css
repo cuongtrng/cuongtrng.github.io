@@ -374,3 +374,35 @@ table.imgtable, table.imgtable td {
 	border: none;
 	text-align: left;
 }
+
+#confs {
+	table-layout: fixed;
+}
+
+#confs td.c1 { 
+	width: 220px;
+}
+
+#confs td.c2 { 
+	/* text-align:left; */
+	width: 100px;
+}
+
+#confs td.c3 { 
+	width: 100px;
+}
+
+#confs td.c4 { 
+	width: 150px;
+}
+
+#confs td.c5 { 
+	width: 200px;
+}
+
+#confs tr.r1 { 
+	font-weight: bold; 
+	color: red;
+	text-align: center;
+	border-bottom: 2px solid black;
+}
