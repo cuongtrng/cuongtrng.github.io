@@ -1,19 +1,19 @@
 # jemdoc: menu{MENU}{conferences.html}
 = Conferences Tracker
 
-- *Last updated:* Mar. 26, 2026
+- *Last updated:* Mar. 30, 2026
 ~~~
 {}{table}{confs}
 Name | DT | Deadline | Date | Location ||
-[https://events.vtsociety.org/vtc2026-fall/ VTC-Fall 2026 (Workshop)] | 29 days left | Apr. 25 | Sep. 6-9 | Boston, MA, USA ||
-[https://atc-conf.org/ ATC 2026] | 64 days left | May. 30 | Oct. 15-17 | Quy Nhon, Vietnam ||
-[https://globecom2026.ieee-globecom.org/ Globecom 2026 (Workshop)] | 110 days left | Jul. 15 | Dec. 7-13 | Macau S.A.R., China ||
-[https://globecom2026.ieee-globecom.org/ Globecom 2027] | 370 days left | Apr. 1 | Dec. 6-10 | Abu Dhabi, UAE ||
-[https://events.vtsociety.org/vtc2026-fall/ VTC-Spring 2027] | 523 days left | Sep. 1 | Jun. 20-23 | Hamburg, Germany ||
-[https://icc2026.ieee-icc.org/ ICC 2027] | 593 days left | Nov. 10 | May. 30 | Washington, D.C., USA ||
-[https://globecom2026.ieee-globecom.org/ Globecom 2028] | 736 days left | Apr. 1 | Dec. 6-10 | Hawaii, USA ||
-[https://icc2026.ieee-icc.org/ ICC 2028] | 959 days left | Nov. 10 | May. 30 | Chengdu, China ||
-[https://globecom2026.ieee-globecom.org/ Globecom 2029] | 1101 days left | Apr. 1 | Dec. 6-10 | Hong Kong, China ||
-[https://icc2026.ieee-icc.org/ ICC 2029] | 1324 days left | Nov. 10 | May. 30 | Paris, France
+[https://events.vtsociety.org/vtc2026-fall/ VTC-Fall 2026 (Workshop)] | 25 days left | Apr. 25 | Sep. 6-9 | Boston, MA, USA ||
+[https://atc-conf.org/ ATC 2026] | 60 days left | May. 30 | Oct. 15-17 | Quy Nhon, Vietnam ||
+[https://globecom2026.ieee-globecom.org/ Globecom 2026 (Workshop)] | 106 days left | Jul. 15 | Dec. 7-13 | Macau S.A.R., China ||
+[https://globecom2026.ieee-globecom.org/ Globecom 2027] | 366 days left | Apr. 1 | Dec. 6-10 | Abu Dhabi, UAE ||
+[https://events.vtsociety.org/vtc2026-fall/ VTC-Spring 2027] | 519 days left | Sep. 1 | Jun. 20-23 | Hamburg, Germany ||
+[https://icc2026.ieee-icc.org/ ICC 2027] | 589 days left | Nov. 10 | May. 30 | Washington, D.C., USA ||
+[https://globecom2026.ieee-globecom.org/ Globecom 2028] | 732 days left | Apr. 1 | Dec. 6-10 | Hawaii, USA ||
+[https://icc2026.ieee-icc.org/ ICC 2028] | 955 days left | Nov. 10 | May. 30 | Chengdu, China ||
+[https://globecom2026.ieee-globecom.org/ Globecom 2029] | 1097 days left | Apr. 1 | Dec. 6-10 | Hong Kong, China ||
+[https://icc2026.ieee-icc.org/ ICC 2029] | 1320 days left | Nov. 10 | May. 30 | Paris, France
 ~~~
 
