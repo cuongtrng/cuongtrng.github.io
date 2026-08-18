@@ -1,8 +1,6 @@
 # jemdoc: menu{MENU}{publications.html}
 = Publications
 
-# *IEEE Copyright Notice*: \C 20XX IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
-
 Authors are permitted to upload the accepted versions of their IEEE papers on the personal websites. See [https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/post-publication-policies/ IEEE Post-Publication Policies] for more details.
 
 # For more details: [https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/post-publication-policies/ IEEE Post-Publication Policies],
@@ -13,8 +11,8 @@ Authors are permitted to upload the accepted versions of their IEEE papers on th
 . Luan V. Doan, Hoang D. Le, *Cuong T. Nguyen*, and Anh T. Pham, 
 "[index.html Channel Prediction-Driven LDPC-Based NC-HARQ for Reliable and Secure Optical Satellite Systems]," *major revision*.
 . *Cuong T. Nguyen*, Hoang D. Le, Anshul Jaiswal, Swaminathan R., and Anh T. Pham, 
-"[index.html Key Reconciliation with RC-LDPC\/Error Estimation for Satellite-based FSO\/QKD Systems]," *minor revision*. 
-\[[https://drive.google.com/file/d/15_TVFqzos15W8NbK0TSRu3rryoCnua_P/view?usp=sharing preprint]\]
+"[https://doi.org/10.1109/TVT.2026.3725740 Key Reconciliation with RC-LDPC\/Error Estimation for Satellite-based FSO\/QKD Systems],"
+/IEEE Transactions on Vehicular Technology/, Aug. 2026 (*Accepted*). \[[papers/2026.TVT.pdf PDF]\]
 . Duy N. Luong, Duy-Tuan Dao, *Cuong T. Nguyen*, Hoang D. Le, and Anh T. Pham, 
 "[https://doi.org/10.1109/LCOMM.2026.3722531 Modulating Retroreflector-Aided UAV-Based FSO\/QKD Systems],"
 /IEEE Communications Letters/, Aug. 2026 (*Accepted*). \[[papers/2026.Duy_CL.pdf PDF]\]
